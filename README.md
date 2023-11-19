@@ -11,8 +11,8 @@
 
 #### Clone the repository
 ```shell
-git clone https://github.com/p1ngul1n0/blackbird
-cd blackbird
+git clone https://github.com/astrax-py/AstraStalk
+cd AstraStalk
 ```
 
 #### Install requirements
@@ -24,34 +24,33 @@ pip install -r requirements.txt
 
 #### Search by username
 ```python
-python blackbird.py -u username
+python AstraStalk.py -u username
 ```
 #### Run WebServer
 ```python
-python blackbird.py --web
+python AstraStalk.py --web
 ```
-Access [http://127.0.0.1:9797](http://127.0.0.1:9797/) on the browser
-
-#### Read results file
+Accesse [http://127.0.0.1:9797](http://127.0.0.1:9797/) no navegador
+#### Leia o arquivo com os resultados:
 ```python
-python blackbird.py -f username.json
+python AstraStalk.py -f username.json
 ```
-#### List supported sites
+#### Liste os sites suportados:
 ```python
-python blackbird.py --list-sites
+python AstraStalk.py --list-sites
 ```
-#### Use proxy
+#### Use proxy:
 ```python
-python blackbird.py -u crash --proxy http://127.0.0.1:8080
+python AstraStalk.py -u crash --proxy http://127.0.0.1:8080
 ```
 #### Show all results
 By default only found accounts will be shown, however you can use the argument below to see all of them.
 ```python
-python blackbird.py -u crash --show-all
+python AstraStalk.py -u crash --show-all
 ```
 #### Export results to CSV file
 ```python
-python blackbird.py -u crash --csv
+python AstraStalk.py -u crash --csv
 ```
 
 ## Docker
