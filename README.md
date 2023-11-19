@@ -7,48 +7,48 @@
 
 
 
-## Setup
+## Instalação
 
-#### Clone the repository
+#### Clone o repositório
 ```shell
 git clone https://github.com/astrax-py/AstraStalk
 cd AstraStalk
 ```
 
-#### Install requirements
+#### Instale os requerimentos
 ```shell
 pip install -r requirements.txt
 ```
 
-## Usage
+## Formas de uso:
 
-#### Search by username
+#### Pesquisar username
 ```python
 python AstraStalk.py -u username
 ```
-#### Run WebServer
+#### WebServer
 ```python
 python AstraStalk.py --web
 ```
 Accesse [http://127.0.0.1:9797](http://127.0.0.1:9797/) no navegador
-#### Leia o arquivo com os resultados:
+#### Leia o arquivo com os resultados
 ```python
 python AstraStalk.py -f username.json
 ```
-#### Liste os sites suportados:
+#### Liste os sites suportados
 ```python
 python AstraStalk.py --list-sites
 ```
-#### Use proxy:
+#### Use proxy
 ```python
 python AstraStalk.py -u crash --proxy http://127.0.0.1:8080
 ```
-#### Show all results
-By default only found accounts will be shown, however you can use the argument below to see all of them.
+#### Mostrar todos os resultados
+
 ```python
 python AstraStalk.py -u crash --show-all
 ```
-#### Export results to CSV file
+#### Exportar resultados para arquivo CSV
 ```python
 python AstraStalk.py -u crash --csv
 ```
