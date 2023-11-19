@@ -1,6 +1,6 @@
 </br>
 
-<img alt="blackbird-cli" align="center" src="https://raw.githubusercontent.com/p1ngul1n0/src/master/blackbird_printscreen.png">
+<img alt="astrastalk-cli" align="center" src="https://i.ibb.co/Q9Y3Pnr/Screenshot-2023-11-19-16-50-35.png">
 <img alt="blackbird-web" align="center" src="https://raw.githubusercontent.com/p1ngul1n0/src/master/blackbird_web.png">
 
 ## Sponsors
