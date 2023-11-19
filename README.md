@@ -5,6 +5,8 @@
 <img alt="astrastalk-cli" align="center" src="https://i.ibb.co/Q9Y3Pnr/Screenshot-2023-11-19-16-50-35.png">
 
 
+## Contato
+<p align="center">  <a href="https://t.me/astra_py"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 
 
 ## Instalação
@@ -635,8 +637,3 @@ python AstraStalk.py -u crash --csv
 579. 35photo.pro
 580. Purple Port
 581. Pixieset
-
-
-
-## Contato
-<p align="center">  <a href="https://t.me/astra_py"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
