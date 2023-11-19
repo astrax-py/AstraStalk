@@ -2,24 +2,8 @@
 
 <img alt="astrastalk-cli" align="center" src="https://i.ibb.co/Q9Y3Pnr/Screenshot-2023-11-19-16-50-35.png">
 
-## Sponsors
-This project is proudly sponsored by:
 
-[<img alt="Cyber Hunter Lab Logo" align="center" width="20%" src="https://raw.githubusercontent.com/p1ngul1n0/src/master/logo_chl.jpg" />](https://site.cyberhunteracademy.com/)
 
-## Disclaimer
-```
-This or previous program is for Educational purpose ONLY. Do not use it without permission. 
-The usual disclaimer applies, especially the fact that me (P1ngul1n0) is not liable for any 
-damages caused by direct or indirect use of the information or functionality provided by these 
-programs. The author or any Internet provider bears NO responsibility for content or misuse 
-of these programs or any derivatives thereof. By using these programs you accept the fact 
-that any damage (dataloss, system crash, system compromise, etc.) caused by the use of these 
-programs is not P1ngul1n0's responsibility.
-```
-
-## NEWS❗
-Blackbird is now available for use online https://blackbird-osint.herokuapp.com/
 
 ## Setup
 
