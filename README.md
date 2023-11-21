@@ -20,11 +20,6 @@ cd AstraStalk
 ```shell
 pip install -r requirements.txt
 ```
-#### Execute a ferramenta
-```shell
-python3 AstraStalk.py
-```
-
 ## Formas de uso:
 
 #### Pesquisar username
