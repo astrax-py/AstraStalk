@@ -16,13 +16,13 @@
 git clone https://github.com/astrax-py/AstraStalk
 cd AstraStalk
 ```
-### Execute a ferramenta
-```shell
-python3 AstraStalk.py
-```
 #### Instale os requerimentos
 ```shell
 pip install -r requirements.txt
+```
+### Execute a ferramenta
+```shell
+python3 AstraStalk.py
 ```
 
 ## Formas de uso:
