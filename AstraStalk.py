@@ -157,7 +157,7 @@ if __name__ == '__main__':
            ░  ░      ░              ░           ░  ░         ░                 ░  ░    ░  ░░  ░      
                                                                                                 
 
-                                        Made with ❤️️ by """ + Fore.BLUE + "p1ngul1n0\n")
+                                        Made with ❤️️ by """ + Fore.BLUE + "~ Astra ~\n")
 
     parser = argparse.ArgumentParser(description='An OSINT tool to search for accounts by username in social networks.')
     parser.add_argument('-u', action='store', dest='username',
